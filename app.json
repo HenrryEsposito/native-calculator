@@ -1,0 +1,12 @@
+{
+  "name": "native-calc",
+  "displayName": "native-calc",
+  "expo": {
+    "name": "native-calc",
+    "slug": "native-calc",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
